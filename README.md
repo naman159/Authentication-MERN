@@ -3,7 +3,7 @@ A template for MERN Authentication with JWT auth. A good starter project to unde
 ## Run it on your own Computer:
 1. Clone the repository
 2. cd into the location of the downloaded folder
-3. Run the following commmand in cli
+3. Run the following command in cli
 ```
 npm run dev
 ```
