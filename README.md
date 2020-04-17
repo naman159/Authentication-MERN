@@ -1,5 +1,5 @@
 # MERN-Authentication-Template
-A template for MERN Authentication with JWT auth. A good starter project to understand how to implement a full stack login adn register page.
+A template for MERN Authentication with JWT auth. A good starter project to understand how to implement a full stack register and login web app with MERN.
 ## Run it on your own Computer:
 1. Clone the repository
 2. cd into the location of the downloaded folder
